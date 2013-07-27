@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://AlanTanis.github.io/sitemap.xml 
+Sitemap: http://giftalan.github.io/sitemap.xml 
